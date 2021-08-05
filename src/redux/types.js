@@ -1,0 +1,7 @@
+export const CREATE_POST = "POST/CREATE_POST"
+export const FETCH_POSTS = "POST/FETCH_POSTS"
+export const SHOW_LOADER = "APP/SHOW_LOADER"
+export const HIDE_LOADER = "APP/HIDE_LOADER"
+export const SHOW_ALLERT = "APP/SHOW_ALLERT"
+export const HIDE_ALLERT = "APP/HIDE_ALLERT"
+export const REQUEST_POST = "POST/REQUEST_POST"
